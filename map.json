@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Rauchernische"
+                 "value":"3982614113rauchernische"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,7 +43,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Raucher oben links"
+                 "value":"3982614113raucherobenlinks"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -61,7 +61,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Raucher oben rechts"
+                 "value":"3982614113raucherobenrechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Raucher unten rechts"
+                 "value":"3982614113raucheruntenrechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Raucher unten links"
+                 "value":"3982614113raucheruntenlinks"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -115,7 +115,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Bar"
+                 "value":"3982614113bar"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,7 +133,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Nichtraucher unten links"
+                 "value":"3982614113nichtraucheruntenlinks"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Nichtraucher unten rechts"
+                 "value":"3982614113nichtraucheruntenrechts"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -169,7 +169,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Nichtraucher Mitte"
+                 "value":"3982614113nichtrauchermitte"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -187,7 +187,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Nichtraucher neben Bar"
+                 "value":"3982614113nebenbar"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -205,7 +205,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Waffenkammer"
+                 "value":"3982614113waffenkammer"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -223,7 +223,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"uiouiouioewquiouiouioewqEinhorn"
+                 "value":"3982614113nebenmaennerklo"
                 }],
          "type":"tilelayer",
          "visible":true,
