@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"stall.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/tascholz.github.io\/Einhorn\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,

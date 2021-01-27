@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#startStallMen"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/tascholz.github.io\/Einhorn\/map.json#startStallMen"
                 }],
          "type":"tilelayer",
          "visible":true,
