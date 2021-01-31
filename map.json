@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/tascholz.github.io\/Einhorn\/einhorn_aussen.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/tascholz.github.io\/Einhorn\/einhorn_aussen.json#outside"
                 }],
          "type":"tilelayer",
          "visible":true,
